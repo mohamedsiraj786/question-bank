@@ -1,7 +1,5 @@
 [{
-  "_id": {
-    "$oid": "6683f5c247cc86e76f175800"
-  },
+ 
   "junior": {
     "questionNumber1": "What is mongoDB?",
     "questionNumber2": "What are the features of JavaScript?",
